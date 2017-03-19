@@ -1,0 +1,34 @@
+{
+  "name": "NewsCartv0.0",
+  "description": "monolith app for newscart demo application",
+  "main": "index.js",
+  "authors": [
+    "warren@newscart.co"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "newscart",
+    "nodejs",
+    "express",
+    "sequelize",
+    "pug",
+    "scss",
+    "jquery"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "mdl#^1.3.0",
+    "jquery": "^3.2.0",
+    "animate.css": "^3.5.2",
+    "normalize-css": "^5.0.0"
+  }
+}
